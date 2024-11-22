@@ -7,7 +7,6 @@ const skills = [
   { name: "Database Migration", progress: "80" },
   { name: "Payment Getway", progress: "70" },
   { name: "Third Party Integration", progress: "85" },
-  { name: "Odoo", progress: "90" },
   { name: "PostgreSQL", progress: "70" },
   { name: "MySQL", progress: "70" },
   { name: "Git", progress: "90" },
