@@ -28,7 +28,7 @@ const projectData = [
     url: "https://www.edumarket.com/",
     alt: "Edumarket",
     details: "odoo modules worked: sales, e-commerce, rest API.",
-    tech: "Python, Odoo, JSON",
+    tech: "Python, Odoo-11.0, JSON",
   },
   {
     image: "assets/img/portfolio/Nk-project-2.png",
@@ -36,7 +36,7 @@ const projectData = [
     alt: "Narayana Educational Trust",
     details:
       "it contains around 1400+ schools and colleges under him. maintain all student details. uograde them school to college also teachers payroll and digital payments. ",
-    tech: "Python, Odoo ",
+    tech: "Python, Odoo-11.0 ",
   },
   {
     image: "assets/img/portfolio/Nk-project-3.png",
@@ -44,7 +44,7 @@ const projectData = [
     alt: "Gujarat council of Science City",
     details:
       " Gujarat Science City is a bold initiative of the Government of Gujarat to realize this priority. The Government is creating a sprawling center at Ahmedabad which aims to provide a perfect blend of education and entertainment. It will showcase contemporary and imaginative exhibits, minds on experiences, working models, virtual reality, activity corners, labs and live demonstrations to provide an understanding of science and technology to the common man.",
-    tech: "Python, Odoo, Js ",
+    tech: "Python, Odoo-13.0, Js ",
   },
   {
     image: "assets/img/portfolio/Nk-project-4.png",
@@ -52,7 +52,7 @@ const projectData = [
     alt: "Bethliving",
     details:
       "Beth Living introduces modular home décor furniture in Steel and Stainless Steel. Beth Living products transforms your home into a fresh, modern looking one, giving your home a contemprary decor. Because your family is precious, and your loved ones deserve the best. Beth's modern alternative home decor products are designed and developed to protect your family with its unmatched features. ",
-    tech: "Python, Odoo, JavaScript, HTML, CSS ",
+    tech: "Python, Odoo-14.0, JavaScript, HTML, CSS ",
   },
 
   {
@@ -61,7 +61,7 @@ const projectData = [
     alt: "AYANAPOWER",
     details:
       "AYANAPOWER is an utility-scale renewable energy platform dedicated to expanding India’s renewable energy footprint, helping it achieve its 500 GW renewable energy target by 2030. Backed by some of the most significant investment funds - National Investment & Infrastructure Fund, British International Investment, and Green Growth Equity Fund, we support a low-carbon future while helping create jobs in the power sector. We are powered by a team of experts, with vast experience in the industry. Our wide range of renewable energy resources such as solar, wind, round-the-clock, and green hydrogen grants us a solid industry position. We strive towards ensuring a greener and brighter future through innovation and the empowerment of local communities.",
-    tech: " Python, Odoo",
+    tech: " Python, Odoo-14.0",
   },
 
   {
@@ -70,7 +70,7 @@ const projectData = [
     alt: "Golden Falcon Aviation",
     details:
       "Turbify, an Infinite company, provides tools and resources businesses need to succeed. It starts with a custom domain name and we have over 400 top level domains including .com, .info, .shop and more to help your business get the perfect web address. Next is your website, and we have a range of products from the easy self-service option with our Websites builder, hosting to allow you to build more custom websites using WordPress or other tools, and Stores for those building ecommerce businesses. We can even design, build and manage your website for you with Website Design Services.",
-    tech: "Python, Django, JavaScript, Mysql ",
+    tech: "Python, Odoo-14.0, JavaScript, Mysql, OCR ",
   },
 
   {
@@ -79,7 +79,7 @@ const projectData = [
     alt: "Anker Innovation (E-commerce, Kuwait)",
     details:
       "Astore is Kuwait’s leading mobile accessories & smart gadgets destination. With exactly 999 products on display, we select only the very best of what the industry has to offer. Not only that, ASTORE trademark also represents other affiliated trade marks. Fixaid By Astore; that is Kuwait's favorite on-the-go maintenance center. We are the exclusive distributor for the highest quality grade brands mainly in Kuwait and the Gulf area.",
-    tech: "Python, Django, JavaScript, Mysql ",
+    tech: "Python, Odoo-14.0, JavaScript, Mysql ",
   },
   {
     image: "assets/img/portfolio/Nk-projects-8.png",
@@ -87,7 +87,7 @@ const projectData = [
     alt: "Gujarat FibreGrid (Govt. Project)",
     details:
       "Overseeing Gujarat's FiberGrid network, integrating billing and HRMS for efficiency. Ensures seamless connectivity, automates billing, HR functions, and network monitoring.",
-    tech: "Python, Odoo, XML ",
+    tech: "Python, Odoo-13.0, XML ",
   },
 
   {
@@ -96,7 +96,7 @@ const projectData = [
     alt: "Bonyan",
     details:
       "Bonyan is a leading NGO focused on rebuilding and revitalizing war-impacted communities and aiding refugees within the U.S. and abroad. As a trusted name in philanthropy, we’ve dedicated ourselves to transforming lives, advocating for quality education, and fostering community growth. Your donations drive our mission, making every effort possible.",
-    tech: "Python, Odoo, Javascript ",
+    tech: "Python, Odoo-17.0, Javascript ",
   },
   {
     image: "assets/img/portfolio/Nk-project-10.png",
@@ -104,7 +104,7 @@ const projectData = [
     alt: "Codot Logistics",
     details:
       "I collaborated with CODOT Logistics to implement and customize a leading ERP system, enhancing their operational efficiency and transparency. The project involved automating office operations, improving shipment tracking with real-time updates, and resolving logistical challenges through tailored IT solutions. This work enabled CODOT to adapt to market changes, boost customer satisfaction, and achieve significant business growth.",
-    tech: "Python, Odoo, Javascript ",
+    tech: "Python, Odoo-14.0, Javascript ",
   },
   {
     image: "assets/img/portfolio/Nk-project-11.png",
@@ -112,7 +112,7 @@ const projectData = [
     alt: "vapi.co Connector",
     details:
       "Developed a custom Odoo module to integrate seamlessly with Vapi.co, tailored specifically for the pharmaceutical industry. The module enables effortless synchronization of data between Vapi.co and Odoo, ensuring accurate and efficient management of critical business operations. Key functionalities include fetching and synchronizing user details, products, orders, and other essential data, while incorporating customizations in Odoo to align with the unique requirements of the pharma sector. This solution streamlined data flow, enhanced operational efficiency, and provided a robust foundation for managing pharmaceutical operations effectively.",
-    tech: "Python, Odoo, API ",
+    tech: "Python, Odoo-18.0, API ",
   },
   {
     image: "assets/img/portfolio/Nk-project-12.png",
@@ -120,7 +120,15 @@ const projectData = [
     alt: "Quickbook Connector",
     details:
       "Developed a QuickBooks connector for Odoo, enabling seamless synchronization of financial and operational data between the two platforms. This integration automates the transfer of key data, such as invoices, payments, customers, vendors, and accounts, ensuring consistency and accuracy across systems. The connector facilitates real-time updates and reduces manual data entry, enhancing efficiency and minimizing errors. By bridging Odoo's robust ERP capabilities with QuickBooks' comprehensive accounting features, this solution provides businesses with a streamlined workflow for financial management and operational excellence.",
-    tech: "Python, Odoo, API ",
+    tech: "Python, Odoo-17.0, API ",
+  },
+  {
+    image: "assets/img/portfolio/Nk-project-13.png",
+    url: "",
+    alt: "OCR",
+    details:
+      "Developed an OCR functionality using various models to automatically extract information from emails received through the Incoming Mail Server. This feature creates records in the Sales Order and Leads modules in Odoo, capturing product details and other relevant information to streamline data entry and improve workflow efficiency.",
+    tech: "Python, Odoo-17.0, Python Libraries (poplib, tabula, camelot, imaplib) ",
   },
 ];
 
